@@ -4,7 +4,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/material_dynamic_primary90"
+    android:background="@color/background_3"
     tools:context=".primeraApp.ResponseActivity">
 
     <TextView
@@ -13,9 +13,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
 
-        android:textColor="@color/black"
+        android:textColor="@color/title_text_2"
         android:textSize="35sp"
         android:textStyle="bold"
-        tools:text="No sé tu nombre" />
+        tools:text="" />
 
 </FrameLayout>
