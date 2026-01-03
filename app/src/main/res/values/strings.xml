@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">AndroidMaster</string>
+
+    <string name="menu">Menú</string>
+
+    <string name="saludar">Saludar</string>
+    <string name="calcularIMC">Calcular IMC</string>
+
+    <string name="descImgHombre">Imagen hombre</string>
+    <string name="descImgMujer">Imagen mujer</string>
+
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+
+    <string name="altura">Altura (CM)</string>
+    <string name="alturaPorDefecto">120 cm</string>
+
+    <string name="peso">Peso (KG)</string>
+
+    <string name="edad">Edad</string>
+
+    <string name="descImgSumar">Imagen suma</string>
+    <string name="descImgRestar">Imagen resta</string>
+
+    <string name="obtenerIMC">Calcular IMC</string>
+
+    <string name="infrapeso">infrapeso</string>
+    <string name="normal">peso normal</string>
+    <string name="sobrepeso">sobrepeso</string>
+    <string name="obesidad">obesidad</string>
 </resources>

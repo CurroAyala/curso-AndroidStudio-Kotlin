@@ -8,6 +8,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.appcompat.widget.AppCompatButton
 import com.curso.androidmaster.primeraApp.FirstAppActivity
+import com.curso.androidmaster.segundaApp.SecondAppActivity
 
 class MenuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,6 +24,12 @@ class MenuActivity : AppCompatActivity() {
         val botonSaludar = findViewById<AppCompatButton>(R.id.saludar)
         botonSaludar.setOnClickListener {
             val intent = Intent(this, FirstAppActivity::class.java)
+            startActivity(intent)
+        }
+
+        val botonIMC = findViewById<AppCompatButton>(R.id.imc)
+        botonIMC.setOnClickListener {
+            val intent = Intent(this, SecondAppActivity::class.java)
             startActivity(intent)
         }
 

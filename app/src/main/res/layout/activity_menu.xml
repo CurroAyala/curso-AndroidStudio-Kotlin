@@ -14,7 +14,8 @@
         android:layout_gravity="center"
         android:layout_marginTop="30sp"
 
-        android:text="MENÚ"
+        android:text="@string/menu"
+        android:textAllCaps="true"
         android:textColor="@color/title_text_1"
         android:textSize="40sp"
         android:textStyle="bold" />
@@ -27,7 +28,8 @@
         android:layout_marginTop="20sp"
         android:background="@color/btn_background_1"
 
-        android:text="Saludar"
+        android:text="@string/saludar"
+        android:textAllCaps="true"
         android:textColor="@color/btn_text_1"
         android:textStyle="bold" />
 
@@ -39,7 +41,8 @@
         android:layout_marginTop="20sp"
         android:background="@color/btn_background_1"
 
-        android:text="Calcular IMC"
+        android:text="@string/calcularIMC"
+        android:textAllCaps="true"
         android:textColor="@color/btn_text_1"
         android:textStyle="bold" />
 
