@@ -1,4 +1,4 @@
-package com.curso.androidmaster.primeraApp
+package com.curso.androidmaster.primeraApp.view
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

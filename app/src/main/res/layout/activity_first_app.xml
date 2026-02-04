@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/background_2"
     android:orientation="vertical"
-    tools:context=".primeraApp.FirstAppActivity">
+    tools:context=".primeraApp.view.FirstAppActivity">
 
     <TextView
         android:id="@+id/title"

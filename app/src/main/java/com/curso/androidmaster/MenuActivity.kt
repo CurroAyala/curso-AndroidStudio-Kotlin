@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.appcompat.widget.AppCompatButton
-import com.curso.androidmaster.primeraApp.FirstAppActivity
+import com.curso.androidmaster.primeraApp.view.FirstAppActivity
 import com.curso.androidmaster.segundaApp.SecondAppActivity
 
 class MenuActivity : AppCompatActivity() {

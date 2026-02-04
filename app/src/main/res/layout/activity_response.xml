@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/background_3"
-    tools:context=".primeraApp.ResponseActivity">
+    tools:context=".primeraApp.view.ResponseActivity">
 
     <TextView
         android:id="@+id/respuesta"

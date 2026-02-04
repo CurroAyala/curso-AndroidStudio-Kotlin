@@ -1,4 +1,4 @@
-package com.curso.androidmaster.primeraApp
+package com.curso.androidmaster.primeraApp.view
 
 import android.content.Intent
 import android.os.Bundle

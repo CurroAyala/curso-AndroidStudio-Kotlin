@@ -24,10 +24,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".primeraApp.ResponseActivity"
+            android:name=".primeraApp.view.ResponseActivity"
             android:exported="false" />
         <activity
-            android:name=".primeraApp.FirstAppActivity"
+            android:name=".primeraApp.view.FirstAppActivity"
             android:exported="true" />
     </application>
 
